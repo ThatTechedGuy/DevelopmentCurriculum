@@ -1,6 +1,6 @@
 # **_DEVELOPMENT CURRICULUM_**
 
-These are the essential skills that every prospective software developer in 2020 must be familiar with. I have built up this resource library by by curating our favorite blog posts, documentation sites and courses from around the web.
+These are the essential skills that every prospective software developer in 2020 must be familiar with. I have built up this resource library by by curating my favorite blog posts, documentation sites and courses from around the web.
 
 Here, you have access to some of my best curated resources which will help you understand the specifics of the various technologies in depth.
 
