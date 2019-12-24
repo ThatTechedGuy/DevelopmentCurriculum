@@ -216,7 +216,7 @@ Every CS student or budding developer should know how to create basic and beauti
   
 
 - ## **3. JS**
-It does not matter in which domain you are. According to me, Javascript has been and will continue to be the most important programming language of the decade. The community, support and innovation seeping through this language is unparalled. You can build Web Apps, Mobile Apps, AI models etc.
+It does not matter in which domain you are. According to me, Javascript has been and will continue to be the most important programming language of the decade. The community, support and innovation seeping through this language is unparalled. The applications and the pay in JS is far more than other languages and unparallelled.
 
 - Javascript is not JAVA !!
 - Syntax
