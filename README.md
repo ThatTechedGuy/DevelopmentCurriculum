@@ -160,6 +160,7 @@ My general recommendations are as follows :-
     - Connecting js to HTML file
     - Connecting css to a HTML file
     - Meta tags
+    - HTML Canvas
 
     - Forms
         - Form structure
@@ -189,6 +190,7 @@ Every CS student or budding developer should know how to create basic and beauti
     - Display Block
     - cons of Hardcoding CSS Properties
     - Alignment - Horizontal, Vertical, Centering
+  - Animations and Transitions
   - CSS Preprocessors 
   - Web Pages and User Interfaces
   - Sass/SCSS
