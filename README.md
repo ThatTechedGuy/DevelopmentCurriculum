@@ -17,15 +17,21 @@ _You might want to shift to Linux or MacOS before you start the actual developme
 - ### Choose a Linux Distribution
 
   - **_Research thoroughly_** before choosing a Linux distribution.
-    _My recommendations are :_ - Manjaro - MX Linux - Linux Mint - Ubuntu - For advanced Linux users : Arch Linux. _(my personal favourite and daily driver!)_
+  - 
+    _My recommendations are :_
+     - Manjaro 
+     -  MX Linux 
+     -  Linux Mint 
+     -  Ubuntu 
+     -  For advanced Linux users : Arch Linux. _(my personal favourite and daily driver!)_
 
     - ***Factors to consider*** before installing a Linux distro:-
-        		- Stable vs Rolling release
-        		- Availability of applications
-        		- Development friendly
-        		- Security
-        		- Package Manager and its download speeds
-        		- Desktop Environment  *(personal favourite: XFCE)*
+        - Stable vs Rolling release
+        - Availability of applications
+        - Development friendly
+        - Security
+        - Package Manager and its download speeds
+        - Desktop Environment  *(personal favourite: XFCE)*
 
 > NOTE : There is no best Linux distribution. It depends on one's personal preferences.
 
