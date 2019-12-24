@@ -59,7 +59,9 @@ You might want to get that ugly terminal pumped up before starting development.
         - pd
   
 - ### **Basic Git commands**
-  > These are of utmost importantance especially during version control - when working in a team
+  > These are of utmost importantance especially during version control - when working in a team.
+
+  Here is a list of commands, not in a particular order: 
   - clone
   - push
   - pull
@@ -70,6 +72,12 @@ You might want to get that ugly terminal pumped up before starting development.
   - reset
   - branch
   - checkout
+  - remote
+  - add
+  - status
+  - log
+  - commit
+  - init
   
 - ### **Basic Vim commands**
       -  Command Mode and Insert Mode
@@ -84,8 +92,10 @@ You might want to get that ugly terminal pumped up before starting development.
     - yarn
     - homebrew (macOS)
     - Node version manager - nvm
-
-
+    - ### For Linux users 
+       - snap
+  
+  
 ## **2. Coding environment**
 *A coding environment should be properly configured in order to increase your overall productivity during work.*
 
@@ -106,5 +116,21 @@ My general recommendations are as follows :-
 - ### **Integrated Development Environments**
   - Jetbrains : Webstorm / Pycharm / Intellij Idea
 
+>A software engineer's text editor of choice is somewhat just a personal preference. There isn't necessarily one right answer. 
+
+>Visual Studio Code (VSCode) is my current text editor of choice. It is lightweight and easily extendable. It is built and maintained by Microsoft so it has really good native TypeScript support and is updated every month.
+
+- ### **If youre using VSCode, do install tons of extentions and themes!**
+    - git lens
+    - code runner
+    - live server
+    - prettier
+    - intellisense for all languages
+    - intellicode
+    - bracket pair colourizer 2
+    - css peek
+    - auto import
+    - emmet
+    - themes, icons based on personal preference.
 
 
