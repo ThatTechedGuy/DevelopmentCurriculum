@@ -66,7 +66,7 @@ You might want to get that ugly terminal pumped up before starting development.
   
 - ### **Basic Git commands**
   > These are of utmost importantance especially during version control - when working in a team.
-
+  
   Here is a list of important commands, not in any particular order: 
   - clone
   - push
@@ -86,6 +86,15 @@ You might want to get that ugly terminal pumped up before starting development.
   - reset
   - stash 
   - fetch
+  
+  - # **LEARN GITTTTT !!!**
+As your code gets larger and larger, it becomes important to have different versions, timestamps and more control over the development phase. Git is the industrial standard. Learn how to use it from the command line
+
+
+- [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Atlassian, yet another excellent resource](https://www.atlassian.com/git)
+- Github Pages
+- Github Student Pack for freebies
   
 - ### **Basic Vim commands**
       -  Command Mode and Insert Mode
@@ -260,14 +269,7 @@ It does not matter in which domain you are. According to me, Javascript has been
     - [mozilla docs for js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - [html, css , js playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
 
-- # **LEARN GITTTTT !!!**
-As your code gets larger and larger, it becomes important to have different versions, timestamps and more control over the development phase. Git is the industrial standard. Learn how to use it from the command line
 
-
-- [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- [Atlassian, yet another excellent resource](https://www.atlassian.com/git)
-- Github Pages
-- Github Student Pack for freebies
 
 
 - # **Important Web Development Resources**
