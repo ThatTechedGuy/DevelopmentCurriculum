@@ -182,9 +182,13 @@ Every CS student or budding developer should know how to create basic and beauti
   - Box Model
   - Grid Systems
   - Responsiveness
-  - Media Queries
-  - Fluid Typography
-  - Flex-box Model
+    - Media Queries
+    - Fluid Typography
+    - Flex-box Model
+    - CSS Grid
+    - Display Block
+    - cons of Hardcoding CSS Properties
+    - Alignment - Horizontal, Vertical, Centering
   - CSS Preprocessors 
   - Web Pages and User Interfaces
   - Sass/SCSS
@@ -201,9 +205,12 @@ Every CS student or budding developer should know how to create basic and beauti
     - [CSS tricks](https://css-tricks.com/)
 
 - ## **HTML AND CSS frameworks and helpers**
-   - Bulma
-   - Bootstrap
-   - W3.css
+   - [Bulma](https://bulma.io/)
+   - [Bootstrap 4](https://getbootstrap.com/)
+   - [Tachyons](https://tachyons.io/)
+   - [PureCSS](https://purecss.io/)
+   - [Materialize](https://materializecss.com/)
+
   
 
 - ## **3. JS**
@@ -239,7 +246,9 @@ It does not matter in which domain you are. According to me, Javascript has been
     - React
     - Angular
     - Vue
-- Javascript at the backend (industrial standard)
+> React has the most stars on GitHub.
+
+- Javascript at the backend *(industrial standard)*
     - NodeJS and npm - global object
     - Express
 
@@ -248,3 +257,19 @@ It does not matter in which domain you are. According to me, Javascript has been
     - [w3schools](https://www.w3schools.com/js/default.asp)
     - [mozilla docs for js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - [html, css , js playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
+
+- # **LEARN GITTTTT !!!**
+As your code gets larger and larger, it becomes important to have different versions, timestamps and more control over the development phase. Git is the industrial standard. Learn how to use it from the command line
+
+
+- [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Atlassian, yet another excellent resource](https://www.atlassian.com/git)
+- Github Pages
+- Github Student Pack for freebies
+
+
+- # **Important Web Development Resources**
+
+    - [FreeCodeCamp Certifications](https://www.w3schools.com/js/default.asp)
+    - [How the internet works](https://www.youtube.com/watch?v=f0No0ZpZC04)
+    - [Best Web Dev Course Online](https://www.learningcrux.com/course/the-complete-web-developer-in-2020-zero-to-mastery)
