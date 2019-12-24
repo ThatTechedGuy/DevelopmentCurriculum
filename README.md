@@ -196,9 +196,55 @@ Every CS student or budding developer should know how to create basic and beauti
  - **Important Links for CSS**
 
     - [w3schools](https://www.w3schools.com/css/default.asp)
-    - [mozilla docs for forms](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [mozilla docs for css](https://developer.mozilla.org/en-US/docs/Web/CSS)
     - [html, css , js playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
     - [CSS tricks](https://css-tricks.com/)
+
+- ## **HTML AND CSS frameworks and helpers**
+   - Bulma
+   - Bootstrap
+   - W3.css
   
 
+- ## **3. JS**
+It does not matter in which domain you are. According to me, Javascript has been and will continue to be the most important programming language of the decade. The community, support and innovation seeping through this language is unparalled. You can build Web Apps, Mobile Apps, AI models etc.
 
+- Javascript is not JAVA !!
+- Syntax
+    - decision making
+    - Functions
+    - Objects
+    - Classes
+    - var vs let vs const 
+    - alert()
+  
+- JSON, cloning - deep cloning, shallow cloning
+- Industrial functions - reduce, filter, map, entries
+- Event Listeners , preventDefault()
+- Form Validation
+- DOM - document object model 
+- The JS Web Standards
+  - ES5
+  - ES6
+  - ES7
+  - ES8
+  - ES9
+- Async Await
+- AJAX 
+- fetch, then
+
+- JQuery - an old school JS framework.
+
+- Advanced front end libraries (any 1)
+    - React
+    - Angular
+    - Vue
+- Javascript at the backend (industrial standard)
+    - NodeJS and npm - global object
+    - Express
+
+- **Important Links for JS**
+
+    - [w3schools](https://www.w3schools.com/js/default.asp)
+    - [mozilla docs for js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    - [html, css , js playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
