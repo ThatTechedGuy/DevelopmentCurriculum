@@ -19,7 +19,7 @@ _You might want to shift to Linux or MacOS before you start the actual developme
   - **_Research thoroughly_** before choosing a Linux distribution.
     _My recommendations are :_ - Manjaro - MX Linux - Linux Mint - Ubuntu - For advanced Linux users : Arch Linux. _(my personal favourite and daily driver!)_
 
-        - ***Factors to consider*** before installing a Linux distro:-
+    - ***Factors to consider*** before installing a Linux distro:-
         		- Stable vs Rolling release
         		- Availability of applications
         		- Development friendly
@@ -132,5 +132,8 @@ My general recommendations are as follows :-
     - auto import
     - emmet
     - themes, icons based on personal preference.
+
+
+# **_CURRICULUM_**
 
 
