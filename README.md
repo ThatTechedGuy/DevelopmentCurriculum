@@ -149,26 +149,56 @@ My general recommendations are as follows :-
 ## ***Holy trinity of the Web Development***
 
 - ## **1.HTML**
-Learning HTML is of utmost importance. 
-HTML is the standard markup language for Web applications.
-It is very easy to learn. 
- 
-- Doctype
-- head and body
-  - Block elements vs Inline Elements
-  - span vs div
-  - Connecting js to HTML file
-  - Connecting css to a HTML file
-  - Meta tags
+    Learning HTML is of utmost importance. 
+    HTML is the standard markup language for Web applications.
+    It is very easy to learn. 
+    
+    - Doctype
+    - head and body
+    - Block elements vs Inline Elements
+    - span vs div
+    - Connecting js to HTML file
+    - Connecting css to a HTML file
+    - Meta tags
 
-  - Forms
-      - Form structure
-      - *Form Data Validation*
-          - input
-          - textarea
-          - basic attributes
-          - action
-          - method
-          - required
-
+    - Forms
+        - Form structure
+        - *Form Data Validation*
+            - input
+            - textarea
+            - basic attributes
+            - action
+            - method
+            - required
+    - **Important Links for HTML**
+        - [w3schools](https://www.w3schools.com/html/default.asp)
+        - [mozilla docs for forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+        - [html, css , js playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
+  
 - ## **2. CSS**
+CSS is more concerned with the styling of webpages. 
+Every CS student or budding developer should know how to create basic and beautiful interfaces, or at least have an idea about the CSS3 Model of the WebPage.
+    
+  - Box Model
+  - Grid Systems
+  - Responsiveness
+  - Media Queries
+  - Fluid Typography
+  - Flex-box Model
+  - CSS Preprocessors 
+  - Web Pages and User Interfaces
+  - Sass/SCSS
+      - How to use Sass Mixins
+      - Post Processors
+  - Autoprefixer
+  - CSS Positioning 
+
+ - **Important Links for CSS**
+
+    - [w3schools](https://www.w3schools.com/css/default.asp)
+    - [mozilla docs for forms](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [html, css , js playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
+    - [CSS tricks](https://css-tricks.com/)
+  
+
+
