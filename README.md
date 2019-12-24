@@ -61,11 +61,10 @@ You might want to get that ugly terminal pumped up before starting development.
 - ### **Basic Git commands**
   > These are of utmost importantance especially during version control - when working in a team.
 
-  Here is a list of commands, not in a particular order: 
+  Here is a list of important commands, not in any particular order: 
   - clone
   - push
   - pull
-  - rebase
   - merge
   - fork
   - revert
@@ -78,6 +77,9 @@ You might want to get that ugly terminal pumped up before starting development.
   - log
   - commit
   - init
+  - reset
+  - stash 
+  - fetch
   
 - ### **Basic Vim commands**
       -  Command Mode and Insert Mode
@@ -136,4 +138,31 @@ My general recommendations are as follows :-
 
 # **_CURRICULUM_**
 
+## No matter which route you take:
 
+## ***Holy trinity of the Web Development***
+
+- ## **1.HTML**
+Learning HTML is of utmost importance. 
+HTML is the standard markup language for Web applications.
+It is very easy to learn. 
+ 
+- Doctype
+- head and body
+  - Block elements vs Inline Elements
+  - span vs div
+  - Connecting js to HTML file
+  - Connecting css to a HTML file
+  - Meta tags
+
+  - Forms
+      - Form structure
+      - *Form Data Validation*
+          - input
+          - textarea
+          - basic attributes
+          - action
+          - method
+          - required
+
+- ## **2. CSS**
