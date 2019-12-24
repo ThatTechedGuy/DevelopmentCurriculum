@@ -90,7 +90,8 @@ You might want to get that ugly terminal pumped up before starting development.
   - # **LEARN GITTTTT !!!**
 As your code gets larger and larger, it becomes important to have different versions, timestamps and more control over the development phase. Git is the industrial standard. Learn how to use it from the command line
 
-
+<hr>
+<hr>
 - [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [Atlassian, yet another excellent resource](https://www.atlassian.com/git)
 - Github Pages
