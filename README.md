@@ -249,11 +249,18 @@ It does not matter in which domain you are. According to me, Javascript has been
   - ES7
   - ES8
   - ES9
+- Promises
 - Async Await
 - AJAX 
 - fetch, then
+- Shorthand operators
+- Destructuring
+- Object methods
+- Math : NaN, Infinity 
 
 - JQuery - an old school JS framework.
+> To Research : React is the standard right now, replacing JQuery. Why has React gained so much popularity? 
+- Design Patterns
 
 - Advanced front end libraries (any 1)
     - React
