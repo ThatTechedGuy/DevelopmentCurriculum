@@ -179,9 +179,10 @@ My general recommendations are as follows :-
             - input
             - textarea
             - basic attributes
-            - action
+            - action : GET vs POST
             - method
             - required
+            - submit button
     - **Important Links for HTML**
         - [w3schools](https://www.w3schools.com/html/default.asp)
         - [mozilla docs for forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
