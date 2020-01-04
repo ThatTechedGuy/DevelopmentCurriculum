@@ -281,10 +281,7 @@ It does not matter in which domain you are. According to me, Javascript has been
     - [w3schools](https://www.w3schools.com/js/default.asp)
     - [mozilla docs for js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - [html, css , js playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
-
-
-
-
+  
 - # **Important Web Development Resources**
 
     - [FreeCodeCamp Certifications](https://www.w3schools.com/js/default.asp)
@@ -299,7 +296,7 @@ It does not matter in which domain you are. According to me, Javascript has been
 > The same language is used at the client as well as the server side which makes it easier for developers to build fast scalable applications.
 
 
-- ### *NodeJS and npm - global object*
+- ## *NodeJS and npm - global object*
     - http module, HTTP Requests
     - fs module
     - Node.js is non-blocking I/0 and event driven. Why?
@@ -309,7 +306,7 @@ It does not matter in which domain you are. According to me, Javascript has been
         - Async/Await and Promises
     - Sending mails using Node.js
         - nodemailer
-- ### *Express.js*
+- ## *Express.js*
     - state of the art most dependant web framework in the industry.
     - Express Routing
     - Middlewares
