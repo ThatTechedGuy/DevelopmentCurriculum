@@ -232,7 +232,7 @@ It does not matter in which domain you are. According to me, Javascript has been
 - Javascript is not JAVA !!
 - Syntax
     - decision making
-    - Functions
+    - Functions 
     - Objects
     - Classes
     - var vs let vs const 
@@ -241,6 +241,7 @@ It does not matter in which domain you are. According to me, Javascript has been
 - JSON, cloning - deep cloning, shallow cloning
 - Industrial functions - reduce, filter, map, entries
 - Event Listeners , preventDefault()
+- Arrow Functions (=>)
 - Form Validation
 - DOM - document object model 
 - The JS Web Standards
@@ -249,21 +250,28 @@ It does not matter in which domain you are. According to me, Javascript has been
   - ES7
   - ES8
   - ES9
-- Async Await
-- AJAX 
-- fetch, then
+- Promises
+  - Async Await
+  - AJAX 
+  - fetch, then , catch, finally, all
 
 - JQuery - an old school JS framework.
 
-- Advanced front end libraries (any 1)
-    - React
+- Advanced front end libraries (any 1) *(industrial standard)*
+    - React 
     - Angular
     - Vue
 > React has the most stars on GitHub.
 
-- Javascript at the backend *(industrial standard)*
-    - NodeJS and npm - global object
-    - Express
+- ES5 modules, ES6 modules
+    - module.exports
+    - import, export -  export default
+
+- Module Bundling
+    - Browserify
+    - Parcel
+    - Webpack
+
 
 - **Important Links for JS**
 
@@ -278,4 +286,29 @@ It does not matter in which domain you are. According to me, Javascript has been
 
     - [FreeCodeCamp Certifications](https://www.w3schools.com/js/default.asp)
     - [How the internet works](https://www.youtube.com/watch?v=f0No0ZpZC04)
-    - [Best Web Dev Course Online](https://www.learningcrux.com/course/the-complete-web-developer-in-2020-zero-to-mastery)
+    - [Best Junior Web Dev Course Online](https://www.learningcrux.com/course/the-complete-web-developer-in-2020-zero-to-mastery)
+
+
+## ***DEEP DIVE INTO BACKEND***
+
+
+> Javascript at the backend is currently the industrial solution. 
+> The same language is used at the client as well as the server side which makes it easier for developers to build fast scalable applications.
+
+
+- ### *NodeJS and npm - global object*
+    - http module, HTTP Requests
+    - fs module
+    - Node.js is non-blocking I/0 and event driven. Why?
+    - Asynchronous behaviour in nodejs
+    - Callback hell
+    - Solution to callback hell
+        - Async/Await and Promises
+    - Sending mails using Node.js
+        - nodemailer
+- ### *Express.js*
+    - state of the art most dependant web framework in the industry.
+    - Express Routing
+    - Middlewares
+
+
