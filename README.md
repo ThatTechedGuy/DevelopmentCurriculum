@@ -179,9 +179,10 @@ My general recommendations are as follows :-
             - input
             - textarea
             - basic attributes
-            - action
+            - action : GET vs POST
             - method
             - required
+            - submit button
     - **Important Links for HTML**
         - [w3schools](https://www.w3schools.com/html/default.asp)
         - [mozilla docs for forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
@@ -256,6 +257,8 @@ It does not matter in which domain you are. According to me, Javascript has been
   - fetch, then , catch, finally, all
 
 - JQuery - an old school JS framework.
+> To Research : React is the standard right now, replacing JQuery. Why has React gained so much popularity? 
+- Design Patterns
 
 - Advanced front end libraries (any 1) *(industrial standard)*
     - React 
