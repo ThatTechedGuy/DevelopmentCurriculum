@@ -1,4 +1,4 @@
-# **_DEVELOPMENT CURRICULUM_**
+# **_BASIC WEB DEVELOPMENT CURRICULUM_**
 
 These are the essential skills that every prospective software developer in 2020 must be familiar with. I have built up this resource library by by curating my favorite blog posts, documentation sites and courses from around the web.
 
@@ -310,5 +310,16 @@ It does not matter in which domain you are. According to me, Javascript has been
     - state of the art most dependant web framework in the industry.
     - Express Routing
     - Middlewares
+- ## *MongoDb*
+    - Mongoose ORM
+    - CRUD 
+    - NoSQL relationships and DB design.
 
+- ## *Relational Databases*
+    - CRUD using Postgres / SQLite3
+    - Entity Relationships
+    - Relational Database Design, Management
+    - SQL injections
+- ## *Performance, Security, Best Practices, Latest changes*
+> With these basics grounded, keep exploring the field and experiment around with different frameworks/libraries & stacks.
 
